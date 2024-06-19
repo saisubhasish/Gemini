@@ -1,2 +1,3 @@
-google-generativeai
+boto3
 python-dotenv
+google-generativeai
